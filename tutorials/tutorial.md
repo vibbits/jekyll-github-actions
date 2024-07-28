@@ -1,6 +1,5 @@
-tutorial.md
-layout: tutorial
 ---
+layout: tutorial
 bioschemas:
   "@context": https://schema.org/
   "@type": LearningResource
